@@ -6,7 +6,7 @@ Follow these steps to clone the repository:
 
 1) Install git lfs if it is not installed already. This is needed here because the repository contains data files upload through git lfs which can be viewed in the original form only if git lfs is installed.
 
-    installation instructions here: https://git-lfs.github.com/
+    Installation instructions here: https://git-lfs.github.com/
   
 2) Clone the repository using git clone command.
 
