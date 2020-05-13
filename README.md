@@ -34,6 +34,5 @@ This heatmap has been created for the agreement among local methods for 150 frau
 There is one more heatmap in the Interpretability_Programs_Summary.xlsx file in the Summary folder. This is for agreement among local methods with 1 fraud observation and global methods.
 
 ## 4. Code_PythonPrograms and Code_RPrograms
-This folder contains code for programs using python packages. It has been divided in Global and Local subfolders. For example, SHAP method works for local and global interpretation. So codes for local has been kept in Local subfolder and similarly the for SHAP global interpretation, it has been kept in Global subfolder.
+This folder contains code for programs using python/R packages/library. It has been divided in Global and Local subfolders. For example, SHAP method works for local and global interpretation. So code for local has been kept in Local subfolder and similarly for SHAP global interpretation, it has been kept in Global subfolder.
 
-This applies to all the methods for programs in python and R codes.
