@@ -16,7 +16,7 @@ To run any program, keep the Data folder in the directory where the program is b
 ## 4. Heatmaps
 This folder contains heatmps for local and global programs.
 
-### Heatmap_fortestset_globalmethods.png
+#### Heatmap_fortestset_globalmethods.png
 This heatmap has been created for the agreement among global methods.
 
 ### Heatmap_for1fraudinstance_localmethods.png
