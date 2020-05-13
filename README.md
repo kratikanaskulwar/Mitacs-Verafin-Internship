@@ -12,3 +12,9 @@ Follows these steps to clone the repository:
 
 ## 3. Running program
 To run any program, keep the Data folder in the directory where the program is being run from.
+
+## 4. Heatmaps
+This folder contains heatmps for local and global programs.
+
+### Heatmap_for1fraudinstance_localmethods.png
+This heatmap has been created for the agreement among local methods for 1 fraud observation
